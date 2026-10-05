@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Assignment5/Assignment5.csproj" />
+  <Project Path="Part1_ProceduralToOOP/Part1_ProceduralToOOP.csproj" />
+  <Project Path="Part2_HotelReservationSystem/src/Part2_HotelReservationSystem.csproj" />
+  <Project Path="Part3_BuilderPattern/src/Part3_BuilderPattern/Part3_BuilderPattern.csproj" Id="4333cc26-1e72-495a-97ee-8528b5ea28ec" />
+</Solution>
